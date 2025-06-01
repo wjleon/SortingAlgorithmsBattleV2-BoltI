@@ -2,6 +2,8 @@
 
 A modern, interactive web application for visualizing and comparing sorting algorithms side by side. Built with Next.js, TypeScript, and Tailwind CSS.
 
+> **Note**: This repository is part of the blog post ["What a Comeback: Google Firebase Studio Strikes Back This Time, Lovable Still Performs Flawlessly"](https://medium.com/@wjleon/what-a-comeback-google-firebase-studio-strikes-back-this-time-lovable-still-performs-flawlessly-cc9aafabaf6c) on Medium.
+
 ## 🎯 Features
 
 - **Side-by-Side Comparison**: Compare two different sorting algorithms simultaneously
